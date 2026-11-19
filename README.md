@@ -26,6 +26,11 @@ Technologies Used
 
 - HTML
 - AI Integration
+- 🛠️ Tech Stack
+
+* **Workflow & Orchestration:** Dify AI Agent Workflow
+* **LLM Engine:** `gpt-4o-mini`
+* **Retrieval:** Vector / Hybrid Search with PDF Knowledge Base
 
 Project Type
 
