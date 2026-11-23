@@ -1,6 +1,6 @@
 RigCheck – Hardware and Deal Auditor
 
-F-AI Group Activity
+F-AI Group Activity      
 group members:   
 Sakshi Pandey- ENG25CS0217     
 Lakshmi Nirvanashetti-ENG25CS0255       
