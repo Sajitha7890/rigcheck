@@ -2,7 +2,7 @@ RigCheck – Hardware and Deal Auditor
 
 F-AI Group Activity
 
-About the Project:
+About the Project :
 
 RigCheck is an AI-powered Hardware and Deal Auditor designed to help users evaluate hardware products and make smarter purchasing decisions. It aims to simplify hardware assessment and deal evaluation by providing useful insights and information through an AI-powered system.
 
